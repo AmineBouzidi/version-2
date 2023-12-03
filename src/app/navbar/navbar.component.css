@@ -1,0 +1,45 @@
+/* navbar.component.css */
+*{
+    padding: 4px;
+  }
+  #navbar {
+      background-color: #333;
+      padding: 10px 0;
+    }
+    
+    .navbar-brand img {
+      max-height: 40px;
+    }
+    
+    .navbar-toggler {
+      background-color: #fff;
+    }
+    
+    .nav-link {
+      color: #fff !important;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+    
+    .nav-link:hover {
+      color: #aaa !important;
+    }
+    
+    .form-control {
+      margin-right: 10px;
+      border: 1px solid #fff;
+      border-radius: 4px;
+    }
+    
+    #btn {
+      background-color: #fff;
+      color: #333;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    
+    #btn:hover {
+      background-color: #ddd;
+    }
+    

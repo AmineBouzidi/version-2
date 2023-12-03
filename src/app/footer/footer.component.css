@@ -1,0 +1,31 @@
+/* footer.component.css */
+
+#footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .f-content {
+    margin-bottom: 20px;
+  }
+  
+  .f-content i {
+    margin: 0 10px;
+    font-size: 24px;
+  }
+  
+  .c-content {
+    font-size: 14px;
+  }
+  
+  .c-content a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .c-content a:hover {
+    text-decoration: underline;
+  }
+  
